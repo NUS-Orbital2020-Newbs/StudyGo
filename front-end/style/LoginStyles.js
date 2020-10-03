@@ -8,7 +8,7 @@ export const LoginStyles = StyleSheet.create({
     flex: 1,
     alignItems: 'center',
     justifyContent: 'center',
-    backgroundColor: '#51c9e7',
+    backgroundColor: '#ff7369',
   },
   container2: {
     height: height * 85 / 100,
@@ -29,7 +29,6 @@ export const LoginStyles = StyleSheet.create({
     bottom: 0,
     justifyContent: 'center',
     alignItems: 'center',
-    backgroundColor: '#51c9e7'
   },
   ggBtn: {
     height: 50,
