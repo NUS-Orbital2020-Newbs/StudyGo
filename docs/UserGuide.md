@@ -12,7 +12,7 @@ Open this document in a modern internet browser (Mozilla Firefox, Google Chrome,
 {:toc}
 
 ## 1. Quick start:
-If you are using an Android device, click on [this link](https://drive.google.com/file/d/1WccfQ5KRyxDj8feVFWtdne6K7ZcYvvMp/view?usp=sharing) to download the StudyGo .apk file. After that, go to the folder section of your phone to install the application. Once install, a StudyGo icon will appear on your device. Tap on the icon and get started!
+If you are using an Android device, click on [this link](https://github.com/aidoxe-123/StudyGo/releases/tag/v1.0.4) to download the StudyGo .apk file. After that, go to the folder section of your phone to install the application. Once install, a StudyGo icon will appear on your device. Tap on the icon and get started!
 
 ## 2. Features:
 
@@ -185,6 +185,8 @@ Pressing a task on your screen will lead you to a new screen so you can update t
 If you wish to change your linking status, such as decide to make your personal task public, press `Change` and you will be redirected to the similar screen to when you [choose the linking status for your task](#Link-task).
 
 If you complete the task and want to track your mark later, press `Marked as finished`
+
+
 
 
 
