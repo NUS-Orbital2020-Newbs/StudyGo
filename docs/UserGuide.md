@@ -11,16 +11,16 @@ Open this document in a modern internet browser (Mozilla Firefox, Google Chrome,
 * Table of Contents
 {:toc}
 
-# 1. Quick start:
+# 1. Quick start
 If you are using an Android device, click on [**this link**](https://github.com/NUS-Orbital2020-Newbs/StudyGo/releases/tag/v1.0.4) to download the StudyGo .apk file. After that, go to the folder section of your phone to install the application. Once install, a StudyGo icon will appear on your device. Tap on the icon and get started!
 
-# 2. Features:
+# 2. Features
 
 On first opening, your landing page will look like this
 
 ![Landing Page](./images/LandingPage.png)
 
-## 2.1 Login:
+## 2.1 Login
 
 Having an account allows your data to be stored online and shared my multiple devices.
 On the landing page, enter your email and password, then click `Login`
@@ -37,7 +37,7 @@ If you have not had an account yet, click `Register` and move to section [2.2 Cr
 * Your login information will be remembered so that you don't have to login again every time you open StudyGo
 </div>
 
-## 2.2 Create a new account:
+## 2.2 Create a new account
 
 ![SignUp](images/SignUp.png)
 
@@ -47,7 +47,7 @@ On this section, type in the informations needed including username, email, pass
 
 Once you have successfully registered, the application will automatically direct you back to the login page. Use the new account that you have just created to [login](#21-login)
 
-## 2.3 Navigate between sections:
+## 2.3 Navigate between sections
 
 StudyGo consists of 4 main sections, including Timetable, Calendar, Progress Tracker and Deadlines
 
@@ -55,13 +55,13 @@ To navigate between different sections, click on the menu button on the top left
 
 ![Drawer Slider](images/DrawerSlider.png)
 
-## 2.4 Plan your weekly tasks with timetable:
+## 2.4 Plan your weekly tasks with timetable
 
 Timetable is a feature that helps you keep track of repetitive weekly tasks such as school lectures or labs. On the timetable page, you will have a list of week days on the left column, and a list of 24h-based time slots on the top row. The blue boxes are the weekly tasks. You can swipe left and right to see the whole timetable
 
 ![Timetable View](images/TimetableView.png)
 
-### 2.4.1 Add new timeslot:
+### 2.4.1 Add new timeslot
 
 You can easily add a class into your timetable to keep track of your weekly schedule. First, press the orange cirlce button on the bottom right corner of your screen. You will see this pop-up
 
@@ -76,7 +76,7 @@ Type in your class name (compulsory) and the description of your class (optional
 * The end time must be later than the start time
 </div>
 
-### 2.4.2 Delete/Edit an existing timeslot:
+### 2.4.2 Delete/Edit an existing timeslot
 
 You can recover from your mistake during your timetable planing by either deleting or editing your existing timeslots
 
