@@ -12,7 +12,7 @@ Open this document in a modern internet browser (Mozilla Firefox, Google Chrome,
 {:toc}
 
 # 1. Quick start:
-If you are using an Android device, click on [this link](https://github.com/aidoxe-123/StudyGo/releases/tag/v1.0.4) to download the StudyGo .apk file. After that, go to the folder section of your phone to install the application. Once install, a StudyGo icon will appear on your device. Tap on the icon and get started!
+If you are using an Android device, click on [this link](https://github.com/NUS-Orbital2020-Newbs/StudyGo/releases/tag/v1.0.4) to download the StudyGo .apk file. After that, go to the folder section of your phone to install the application. Once install, a StudyGo icon will appear on your device. Tap on the icon and get started!
 
 # 2. Features:
 
